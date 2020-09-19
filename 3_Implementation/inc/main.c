@@ -1,3 +1,4 @@
+#include "header.h"
 int main()
 {
     //struct bank e[100];
