@@ -1,0 +1,9 @@
+1. Create New Account: A customer who is having the account can create a virtual account through this module. This module receives the customer profile details and the bank account details.
+
+2. Add Money: A customer can add amount to his/her account. It’s possible to add amount to other accounts if he/she have the account number of the respective person’s account.
+
+3. Withdraw Money: One can withdraw money from account if that account is having sufficient balance for required amount of withdrawal.
+
+4. Fund Transfer: This is the module to make fund transfer to the virtual bank account holders or the usual bank account holders from the customer's specified bank account.
+
+5. Views accounts: The users or account holders in the bank can be viewed in this module.
